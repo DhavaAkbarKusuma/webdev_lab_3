@@ -55,7 +55,7 @@ td {
     border-bottom: 1px solid rgba(0, 0, 0, 0.1);
 }
 
-/* Alternate Row Color */
+
 tr:nth-child(even) {
     background-color: rgba(0, 150, 136, 0.1); 
 }
@@ -64,7 +64,7 @@ tr:hover td {
     background-color: rgba(0, 121, 107, 0.2); 
 }
 
-/* Image Styling */
+
 img {
     max-width: 150px;
     height: auto;
